@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CDX Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 1074,
+      "bodyTextHash": "dec7fdea383cfc4abecd4fc4ae339f91fc714d87df924f3fe60ec36d8bcca99e",
+      "bodyTextPrefix": "ETHEREUM MAINNET CDX Pulse Hourly Uniswap desk for CodeX. Live q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CDX Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 1074,
+      "bodyTextHash": "20ea0c08fc34ef9cad8bdd7a1650c44b0549e3bb810893cdc3e46043de708787",
+      "bodyTextPrefix": "ETHEREUM MAINNET CDX Pulse Hourly Uniswap desk for CodeX. Live q",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
